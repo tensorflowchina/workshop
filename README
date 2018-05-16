@@ -1,0 +1,13 @@
+Installation
+============
+* bash prepare.sh
+
+Training
+========
+* Execute your iPython file and generate model.h5 file
+
+Visualization
+=============
+* convert.sh YOU/PATH/TO/THE/H5/FILE
+* livereload
+* Visit localhost:8080/js
