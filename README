@@ -6,7 +6,7 @@ Windows
 * Download and install Anaconda with Python3
 * Download or git clone this repo to a local folder
 * Run prepare.bat
-* livereload --port 8080 and check localhost:8080 on browser
+* python -m SimpleHTTPServer and check localhost:8080 in browser
 * Open jupyter notebook and execute any of your models
 * Use convert.bat MODEL_PATH to convert model to TF JS format
 * Open convert.sh to convert the model
