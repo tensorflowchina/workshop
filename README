@@ -18,4 +18,4 @@ Linux & Mac
 * run prepare.sh
 * run any script to generate model
 * convert.sh MODEL_PATH to convert model to TFJS format
-* livereload --port 8080
+* python -m SimpleHTTPServer
